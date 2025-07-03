@@ -30,3 +30,13 @@
 - Most Preferred Vehicle for Location Pickup
 
 
+## Dashboard
+
+### Overview Analysis
+![image](https://github.com/user-attachments/assets/2bf39aac-e6ed-4180-a956-e27ce401b3b7)
+
+### Time Analysis
+![image](https://github.com/user-attachments/assets/b2b45b65-f576-47c0-9665-dbfbcb8a141a)
+
+### Details
+![image](https://github.com/user-attachments/assets/215d072a-6e6f-40a7-b28d-3a9893dfb755)
